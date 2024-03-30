@@ -1,6 +1,6 @@
 # Hi, I'm Sena 👋 👩🏻‍💻 
 
-Data Scientist ⛁ PhD Researcher / Cognitive Neuroscience 🧠
+Data Scientist ⛁ PhD Researcher *Cognitive Neuroscience 🧠
 ---------------------------------------------------
 I'm a Ph.D. Candidate in Cognitive Neuroscience | MSc. Student in Computer Science (Data Science) who is passionate about unlocking insights through data | Python, No/SQL, R |.
 
